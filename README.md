@@ -1,0 +1,1 @@
+This repository contains an example of an inefficient SQL query and its improved version. The original query suffers from performance issues due to a lack of indexing and doesn't handle cases where the query returns no results. The solution addresses these problems by adding an index and incorporating error handling.
